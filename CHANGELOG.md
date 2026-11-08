@@ -112,6 +112,6 @@ Every skill is explicit-invocation only: invoked by typing its slash command, ne
 
 - `skill-adversary` and `mcp-adversary`: sub-agents use path-based file access instead of embedded prompts, removing prompt-injection surface.
 
-[Unreleased]: https://github.com/hebstr/claude-code-plugins/compare/v0.1.1...HEAD
-[0.1.1]: https://github.com/hebstr/claude-code-plugins/compare/v0.1.0...v0.1.1
-[0.1.0]: https://github.com/hebstr/claude-code-plugins/releases/tag/v0.1.0
+[Unreleased]: https://github.com/hebstr/skills/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/hebstr/skills/compare/v0.1.0...v0.1.1
+[0.1.0]: https://github.com/hebstr/skills/releases/tag/v0.1.0

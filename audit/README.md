@@ -8,7 +8,7 @@ Every skill is **explicit-invocation only**: invoked by typing its slash command
 ## Install
 
 ```bash
-claude plugin marketplace add hebstr/claude-code-plugins
+claude plugin marketplace add hebstr/skills
 claude plugin install audit@hebstr
 ```
 

@@ -10,7 +10,7 @@ Once the flag reached all nine and both plugins were reinstalled, all nine were 
 ## Install
 
 ```bash
-claude plugin marketplace add hebstr/claude-code-plugins
+claude plugin marketplace add hebstr/skills
 claude plugin install workflow@hebstr
 ```
 

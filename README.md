@@ -1,7 +1,7 @@
 # Claude Code plugins
 
-![CI](https://github.com/hebstr/claude-code-plugins/actions/workflows/ci.yml/badge.svg)
-![Release](https://img.shields.io/github/v/release/hebstr/claude-code-plugins)
+![CI](https://github.com/hebstr/skills/actions/workflows/ci.yml/badge.svg)
+![Release](https://img.shields.io/github/v/release/hebstr/skills)
 
 Two [Claude Code](https://claude.com/claude-code) plugins bundling slash-command skills: `audit` (review workflows) and `workflow` (project workflow automation).
 Each skill is invoked explicitly via its slash command.
@@ -13,7 +13,7 @@ See the [Claude Skills documentation](https://support.claude.com/en/articles/125
 Add the marketplace:
 
 ```bash
-claude plugin marketplace add hebstr/claude-code-plugins
+claude plugin marketplace add hebstr/skills
 ```
 
 Then install plugins individually:
